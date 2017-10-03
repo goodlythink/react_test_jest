@@ -1,7 +1,5 @@
-REACT_STARTKID
-
-สำหรับเริ่มต้นระบบแบบกำหนดค่า webpack, babel, node เอง
-รันโดนใช้คำสั่ง
+REACT_TEST_JEST
+//ทดสอบการ test ด้วย jest
 
 //หลังจาก clone ระบบมาแล้วเข้าไปที่ folder  react_startkid จากนั้นรันคำสั่งด้านล่าง
 
